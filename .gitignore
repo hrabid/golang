@@ -1,0 +1,14 @@
+# Build output
+*.exe
+*.test
+*.out
+*.a
+
+# Ignore any binary you build
+/build/
+/bin/
+/dist/
+
+# Specific app binary
+hello-world
+variables
