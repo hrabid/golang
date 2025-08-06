@@ -45,12 +45,12 @@ func main() {
 	* slice_name := make([]int,length,capacity)
 	*/
 	myslice4 := make([]int,5,9)
-	// myslice4 := make([]int,5)
+	// myslice4 := make([]int,5) // omitting cao means its equal to len 
 	fmt.Println(myslice4)
 	fmt.Println("Lenth:", len(myslice4))
 	fmt.Println("Capacity:", cap(myslice4))
 
-
+	
 
 
 }
