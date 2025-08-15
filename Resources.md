@@ -1,3 +1,8 @@
+# Roadmaps
+
+- [tutorialedge](https://tutorialedge.net/paths/golang/)
+- [roadmap.sh](https://roadmap.sh/golang)
+
 # Web Tutorials
 
 ## Basics
@@ -16,6 +21,7 @@
 
 - [concurrency.rocks](https://www.concurrency.rocks/)
 - [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests)
+- [Go Patterns](https://github.com/tmrts/go-patterns)
 
 # Video Tutorials
 
@@ -23,6 +29,7 @@
 - [freeCodeCamp](https://youtu.be/YS4e4q9oBaU?si=NJ-ExNw7XkPaq-8h)
 - [Derek Banas](https://youtu.be/YzLrWHZa-Kc?si=za2_HM1wIagiWdzr)
 - [BekBrac](https://youtu.be/lbPThhcfn10?si=LucQZtSomHsdECzR)
+- [Go Class by matt k0dvd](https://youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6&si=8Rd_QfoxQiRvY4BJ)
 
 # Cheat sheets
 
@@ -34,6 +41,7 @@
 - [Playlist by Akhil Sharma](https://youtube.com/playlist?list=PL5dTjWUk_cPYztKD7WxVFluHvpBNM28N9&si=ETUtVKcn16Ya6maA)
 - [Eleven Go Project by freeCodeCamp](https://youtu.be/jFfo23yIWac?si=_Y6dWmkBEaVUAFJi)
 - [labex](https://labex.io/projects/category/go)
+- [roadmap.sh](https://roadmap.sh/golang/projects)
 
 # Golang CLI App Development
 
@@ -70,3 +78,7 @@
 - JustForFunc
 - Go with Habib
 - Go in five minutes
+
+# GH Repos with  Collection of Go Resources
+
+- [go-resources](https://github.com/matt4biz/go-resources)
