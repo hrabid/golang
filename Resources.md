@@ -39,17 +39,28 @@
 
 ## Cobra
 
+- [official Docs](https://cobra.dev/docs/)
 - [Building a cli in go by Boot dev](https://youtu.be/8yrmAGcCnKg?si=AgBUUT_XSLiyZCKC)
 - [Cobra CLI by DevOps Toolbox](https://youtu.be/44MMeT39eG4?si=0qG_Wjau5_7lZwDV)
 - [Build a CLI App by ...](https://youtu.be/LT_QILmp9jA?si=SBVr2sMn3owty25G)
+- [official Reference](https://pkg.go.dev/github.com/spf13/cobra)
 
 ## urfave/cli
+
+- [Official Docs](https://cli.urfave.org/)
+- [Official Reference](https://pkg.go.dev/github.com/urfave/cli/v3)
 
 # Golang TUI frameworks
 
 ## Bubble Tea
 
+- [gh repo](https://github.com/charmbracelet/bubbletea)
+- [Official Reference](https://pkg.go.dev/github.com/charmbracelet/bubbletea)
+
 ## Tview
+
+- [gh repo](https://github.com/rivo/tview)
+- [Official Docs](https://pkg.go.dev/github.com/rivo/tview)
 
 # YT Channels focusing Golang
 
